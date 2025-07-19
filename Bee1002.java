@@ -1,4 +1,3 @@
-package beecrowd;
 import java.util.Scanner;
 
 public class Bee1002 {
