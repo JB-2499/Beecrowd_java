@@ -1,6 +1,4 @@
-package beecrowd;
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Bee1010 {
     public static void main(String[] args) {
