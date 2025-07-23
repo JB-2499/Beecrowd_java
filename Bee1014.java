@@ -1,7 +1,6 @@
-package beecrowd;
 import java.util.Scanner;
 
-public class Bee1014 {
+public class Main {
     public static void main(String[] agrs) {
         Scanner pergunta = new Scanner(System.in);
         int X = pergunta.nextInt();
